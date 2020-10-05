@@ -5,14 +5,14 @@
 
 ### My Reading Lists :books:
  
-#### Data Engineering & Data Strategy
+#### 💾 Data Engineering & Data Strategy
 
 - [X] Star Schema The Complete Reference, 1st Edition (Christopher Adamson)
 - [X] The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling (Ralph Kimball, Margy Ross)
 - [ ] Creating a Data-Driven Organization: Practical Advice from the Trenches (Carl Anderson)
 - [ ] Agile Data Warehouse Design: Collaborative Dimensional Modeling, from Whiteboard to Star Schema (Lawrence Corr)
 
-#### Software Engineering
+#### 👩🏾‍💻 Software Engineering
 
 - [X] Clean Code: A Handbook of Agile Software Craftsmanship (Martin Robert C.)
 - [X] SQL Practice Problems: 57 beginning, intermediate, and advanced challenges for you to solve using a “learn-by-doing” approach (Sylvia Moestl Vasilik)
