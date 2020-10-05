@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 	👋🏽
 
 - :computer: Currently working on the **Udacity Data Engineering Nanodegree**.
 - :school: Currently learning **Data Engineering on AWS with Spark**.
