@@ -1,7 +1,7 @@
 # Hi there 	👋🏽
 
 - :computer: Currently working on the **Udacity Data Engineering Nanodegree**.
-- :school: Currently learning **Data Engineering on AWS with Spark**.
+- :school: Currently learning **Building Data Pipelines on AWS**.
 
 ### My Reading Lists :books:
  
