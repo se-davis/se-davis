@@ -8,7 +8,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="40">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/300px-Scala-full-color.svg.png" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/375px-Apache_Spark_logo.svg.png" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/330px-Postgresql_elephant.svg.png" height="40">
+<img src="https://www.iperiusbackup.net/wp-content/uploads/2016/05/1768.sql_logo.png" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/225px-Amazon_Web_Services_Logo.svg.png" height="40">
 <img src="https://airflow.apache.org/images/feature-image.png" height="40">
 </span>
